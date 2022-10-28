@@ -1,0 +1,71 @@
+.container{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    border: 2px solid lightgray;
+    border-radius: 16px;
+    background-color: white;
+    padding: 10px;
+    width: 370px;
+    text-align: center;
+    /* width: 30%;
+    height: 200px; */
+    border: 5px dashed #f7a239;
+}
+
+.offer-tag1{
+
+    background-color: #FFB830;
+    color: white;
+    padding: 15px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+}
+.offer-tag2{
+    color: black;
+    padding: 15px;
+    width: 100px;
+    border: none;
+    font-size: 16px;
+    /* margin-bottom: 25px; */
+    box-sizing: border-box;
+    float:left;
+} 
+
+.offer-tag3{
+     color: black;
+    padding: 16px;
+    /* width: 300px; */
+    border: none;
+    font-size: 16px;
+    margin-bottom: 50px;
+    /* box-sizing: border-box;  */
+    border-radius: 10px;
+}   
+
+.offer-tag4{
+
+    color: white;
+    padding: 15px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+
+
+}
+.image{
+
+    
+    /* object-fit: cover; */
+}
